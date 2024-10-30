@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lazy Load for GMaps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 06:14+0200\n"
+"PO-Revision-Date: 2020-01-28 06:15+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_c\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-SearchPath-0: lazy-load-for-gmaps\n"
+
+#. Author of the plugin
+msgid "Webamator"
+msgstr "Webamator"
+
+#. Author URI of the plugin
+msgid "https://www.helper-wp.com/wordpress-freelancer/"
+msgstr "https://www.helper-wp.com/wordpress-freelancer/"
+
+#. Plugin Name of the plugin
+msgid "Lazy Load for GMaps"
+msgstr "Lazy Load for GMaps"
+
+#. Description of the plugin
+msgid ""
+"This plugin make your Google Maps in publications and pages more faster via "
+"Lazy Load."
+msgstr ""
+"Простий плагін що зробить Ваші мапи від Google в публікаціях та на сторінках "
+"більш швидкими за допомогою Lazy Load."
+
+#. Plugin URI of the plugin
+msgid "https://www.helper-wp.com/plugins/lazy-load-google-maps/"
+msgstr "https://www.helper-wp.com/plugins/lazy-load-google-maps/"
+
+#: lazy-load-for-gmaps/includes/webamator-check-plugins.php:30
+msgid "WA plugins"
+msgstr "WA plugins"
+
+#: lazy-load-for-gmaps/includes/webamator-check-plugins.php:65
+msgid " and "
+msgstr " та "
+
+#: lazy-load-for-gmaps/includes/webamator-check-plugins.php:78
+msgid "Plugins by Webamator"
+msgstr "Плагіни від Webamator-а"
+
+#: lazy-load-for-gmaps/includes/webamator-check-plugins.php:79
+msgid "Thank you for use my plugins:"
+msgstr "Дякую що користуєтесь моїми плагінами:"
+
+#: lazy-load-for-gmaps/includes/webamator-check-requirement.php:49
+#, php-format
+msgid ""
+" requires at least WordPress version 4.8.3. You are running version %s. "
+"Please upgrade and try again."
+msgstr ""
+" вимагає WordPress 4.8.3 або новіший. Ви використовуєте версію %s. Будь "
+"ласка, оновіть WordPress та спробуйте ще раз."
+
+#: lazy-load-for-gmaps/includes/webamator-check-requirement.php:69
+msgid " requires WooCommerce. Please install/enable it and try again."
+msgstr ""
+" потребує WooCommerce. Будь ласка, встановіть/увімкніть його та спробуйте ще "
+"раз."
+
+#: lazy-load-for-gmaps/lazy-load-for-gmaps.php:93
+#: lazy-load-for-gmaps/lazy-load-for-gmaps.php:99
+msgid "Lazy Load GMaps"
+msgstr "Lazy Load GMaps"
+
+#: lazy-load-for-gmaps/lazy-load-for-gmaps.php:105
+msgid "Settings"
+msgstr "Налаштування"
+
+#: lazy-load-for-gmaps/lazy-load-for-gmaps.php:225
+msgid "Settings for Google Maps"
+msgstr "Налаштування Google Maps"
+
+#: lazy-load-for-gmaps/lazy-load-for-gmaps.php:235
+msgid "Shortcode (example):"
+msgstr "Приклад шорткода:"
+
+#: lazy-load-for-gmaps/lazy-load-for-gmaps.php:239
+msgid "Attributes for shortcode:"
+msgstr "Атрибути для шорткодів:"
+
+#: lazy-load-for-gmaps/lazy-load-for-gmaps.php:244
+msgid "Latitude, should be in format"
+msgstr "Широта, повинна бути в форматі"
+
+#: lazy-load-for-gmaps/lazy-load-for-gmaps.php:244
+#: lazy-load-for-gmaps/lazy-load-for-gmaps.php:248
+msgid "Required attribute"
+msgstr "Обов'язково"
+
+#: lazy-load-for-gmaps/lazy-load-for-gmaps.php:248
+msgid "Longitude, should be in format"
+msgstr "Довгота, повинна бути в форматі"
+
+#: lazy-load-for-gmaps/lazy-load-for-gmaps.php:252
+msgid "Zoom, can be in format"
+msgstr "Зум (масштаб), може бути в форматі"
+
+#: lazy-load-for-gmaps/lazy-load-for-gmaps.php:252
+msgid ""
+"Zoom levels: 1 - World, 5 - Landmass/Continent, 10 - City, 15 - Streets, 20 "
+"- Buildings."
+msgstr ""
+"Рівні зума: 1 - планета, 5 - континент, 10 - місто, 15 - вулиці, 20 - "
+"будинки."
+
+#: lazy-load-for-gmaps/lazy-load-for-gmaps.php:256
+msgid "Width of block of map, can be in format"
+msgstr "Ширина блока з мапою, може бути в форматі"
+
+#: lazy-load-for-gmaps/lazy-load-for-gmaps.php:260
+msgid "Height of block of map, can be in format"
+msgstr "Висота блока з мапою, може бути в форматі"
+
+#: lazy-load-for-gmaps/lazy-load-for-gmaps.php:264
+msgid "Language for Google Maps, can be in format"
+msgstr "Мова якою відображатимуться Google Maps, може бути в форматі"
+
+#: lazy-load-for-gmaps/lazy-load-for-gmaps.php:288
+msgid "Options:"
+msgstr "Опції:"
+
+#: lazy-load-for-gmaps/lazy-load-for-gmaps.php:296
+msgid "Google Maps API key"
+msgstr "Ключ Google Maps API"
+
+#: lazy-load-for-gmaps/lazy-load-for-gmaps.php:309
+msgid "Enter your API key. If you don't have an API key, you can get it"
+msgstr ""
+"Введіть свій ключ API. Якщо у Вас немає ключа, отримайте його безкоштовно"
+
+#: lazy-load-for-gmaps/lazy-load-for-gmaps.php:309
+msgid "here"
+msgstr "тут"
